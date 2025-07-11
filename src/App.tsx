@@ -2,7 +2,7 @@
 
 
 import BasicInput from './components/BasicInput.tsx';
-import PDFView from './components/PDFView.tsx';
+// import PDFView from './components/PDFView.tsx';
 import './index.css'
 function App() {
   
@@ -10,7 +10,7 @@ function App() {
        
     <div className="container mx-auto mt-8 p-2 flex flex-col justify-center ">
       <BasicInput />
-      <PDFView />
+{/*       <PDFView /> */}
     </div>
   
   );
