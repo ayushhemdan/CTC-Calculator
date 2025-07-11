@@ -166,7 +166,7 @@ export const AdvancedSettings = () => {
           </div>
 
           <div className='mt-4'>
-            <select className='w-full flex justify-between'>
+            <select className='w-full flex justify-between  py-2 px-2'>
               <option value="Tamil Nadu">Tamil Nadu</option>
               <option value="Karnataka">Karnataka</option>
               <option value="Maharashtra">Maharashtra</option>
