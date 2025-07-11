@@ -1,0 +1,11 @@
+
+.container{
+      width: 100%;
+      max-width: 84%;
+  
+    }
+@media (max-width: 700px){
+  .container{
+    max-width: 100%;
+  }
+}
